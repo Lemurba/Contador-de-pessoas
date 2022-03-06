@@ -1,4 +1,4 @@
-# ContadorDeEntradas
+# Contador De Entradas
 
 Meu primeiro projeto em Flutter, consiste em um contador de entradas e saídas de um local, podendo-se alterar a lotação máxima.
 
